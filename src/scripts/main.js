@@ -1,4 +1,3 @@
-'use strict';
 
 import Game from '../modules/Game.class.js';
 

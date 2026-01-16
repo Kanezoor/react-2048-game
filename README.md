@@ -3,7 +3,7 @@
 ![Game Preview](./Preview.png)
 
 ## 🔗 Live Demo
-### [👉 Click here to play the game](https://kanezoor.github.io/js_2048_game/)
+### [👉 Click here to play the game](https://kanezoor.github.io/react-2048-game/)
 
 ## 📝 Description
 A fully functional implementation of the classic "2048" sliding tile puzzle game, built entirely with **Vanilla JavaScript**.
